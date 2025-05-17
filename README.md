@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devangkhunt27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devangkhunt27" height="30" width="40" /></a>
-<a href="https://fb.com/khuntdevang07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khuntdevang07" height="30" width="40" /></a>
-<a href="https://instagram.com/khuntdevang07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khuntdevang07" height="30" width="40" /></a>
+<a href="https://fb.com/devang khunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devang khunt" height="30" width="40" /></a>
+<a href="https://instagram.com/devangkhunt07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devangkhunt07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
